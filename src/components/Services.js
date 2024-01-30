@@ -1,6 +1,6 @@
 import React from 'react';
 import axios from 'axios';
-import Crad from './Crad';
+import Card from './Card';
 
 function Services() {
 
@@ -47,9 +47,9 @@ function Services() {
 
                 <div className='left'>
 
-                    <Crad service={"1.Web Developemnt"} description={"We offer custom web development services, creating responsive and user-friendly websites tailored to your business needs."} amount={5000} checkouthandler={checkouthandler} />
-                    <Crad service={"2.Deployment/Hosting"} amount={10000} description={"Deploy or Host your aplication on fastest server at affordable prices with newest technology"} checkouthandler={checkouthandler} />
-                    <Crad service={"3.App Development"} amount={8000} description={"We offer you custom App Development service, creating dynamic scalable app for your business "} checkouthandler={checkouthandler} />
+                    <Card service={"1.Web Developemnt"} description={"We offer custom web development services, creating responsive and user-friendly websites tailored to your business needs."} amount={5000} checkouthandler={checkouthandler} />
+                    <Card service={"2.Deployment/Hosting"} amount={10000} description={"Deploy or Host your aplication on fastest server at affordable prices with newest technology"} checkouthandler={checkouthandler} />
+                    <Card service={"3.App Development"} amount={8000} description={"We offer you custom App Development service, creating dynamic scalable app for your business "} checkouthandler={checkouthandler} />
 
                     <div>
                         <p style={{ color: "red", marginTop: "5rem", marginBottom: "-5rem" }}>See Loacation on Map</p>
