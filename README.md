@@ -8,7 +8,7 @@ Hello everyone👋 , my name is Sagar Bawanthade a BCA undergraduate student,I h
 
 ## Portfolio
 
-Visit my [Portfolio Website](link-to-your-portfolio-website) to explore my projects and learn more about my skills. Here are a few highlights:
+Visit my link-to-your-portfolio-website  to explore my projects and learn more about my skills. Here are a few highlights:
 
 
 ## Technologies Used
