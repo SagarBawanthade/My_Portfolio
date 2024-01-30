@@ -1,0 +1,100 @@
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+#contact h2 {
+  margin-bottom: 20px;
+  text-align: center;
+  color: wheat;
+}
+
+.contact-form {
+
+  display: block;
+  width: 100rem;
+  margin: auto;
+}
+
+#btn {
+  display: block;
+  width: 11rem;
+  margin: auto;
+}
+
+#services {
+  text-align: center;
+}
+
+#servicesh1 {
+  text-align: center;
+  color: wheat;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+
+
+.left {
+  margin-left: 10rem;
+  gap: 20px
+}
+
+.left h4 {
+  color: #11ABB0
+}
+
+.left p4 {
+  color: white;
+}
+
+.left a {
+  color: wheat;
+
+}
+
+.left a:hover {
+  cursor: pointer;
+  color: green;
+
+}
+
+.right {
+  position: relative;
+  float: left;
+}
+
+iframe {
+  margin-top: 8rem;
+  height: 40rem;
+  width: 50%;
+}
+
+.service1 {
+  margin-bottom: 4rem;
+}
